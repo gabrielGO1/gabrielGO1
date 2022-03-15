@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)! Eu sou o Gabriel Pissoto
 
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente cursando Engenharia de Software
 - 🌱 Estudando JavaScript, HTML, CSS, Python
 
 
