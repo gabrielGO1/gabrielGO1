@@ -2,6 +2,6 @@
 
 
 - 🔭 Atualmente cursando Engenharia de Software
-- 🌱 Estudando Ruby on Rails
+- 🌱 Estudando JavaScript - TypeScript
 
 
